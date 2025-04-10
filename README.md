@@ -1,8 +1,8 @@
-# 📊 Multiple Linear Regression
+## 📊 Multiple Linear Regression
 
 This notebook explores **Multiple Linear Regression**, where multiple independent variables are used to predict a dependent variable. The objective is to understand how different features collectively affect the target variable.
 
-## 🧠 Key Objectives
+## Key Objectives
 
 - Explore the relationship between multiple independent variables and a dependent variable.
 - Build a multiple regression model using **scikit-learn** and **statsmodels**.
